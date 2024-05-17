@@ -12,6 +12,12 @@ Welcome to the Research Assistant Prompts repository. This repository contains a
 - [Blue Ocean Strategy](prompts/Blue_Ocean_Strategy.md)
 - [Gap Analysis](prompts/Gap_Analysis.md)
 - [Technology-Focused Prompts](prompts/Technology.md)
+- [Lean Six Sigma](prompts/Lean_Six_Sigma.md)
+- [Design Thinking](prompts/Design_Thinking.md)
+- [SWOT Analysis](prompts/SWOT_Analysis.md)
+- [PESTEL Analysis](prompts/PESTEL_Analysis.md)
+- [Porter's Five Forces](prompts/Porters_Five_Forces.md)
+- [TRIZ](prompts/TRIZ.md)
 
 ![TFMV Prompts](assets/v.webp)
 
