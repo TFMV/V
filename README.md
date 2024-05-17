@@ -13,6 +13,8 @@ Welcome to the Research Assistant Prompts repository. This repository contains a
 - [Gap Analysis](prompts/Gap_Analysis.md)
 - [Technology-Focused Prompts](prompts/Technology.md)
 
+![TFMV Prompts](assets/v.webp)
+
 ## Usage
 
 Each prompt is designed to provide a detailed and structured approach to conducting research or analysis in its respective area. Feel free to explore the prompts and use them as guides for your projects or studies.
